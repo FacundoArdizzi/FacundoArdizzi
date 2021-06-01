@@ -1,5 +1,5 @@
 <p>
-    <img src="./img/bg.jpg" height='400' >
+    <img src="./img/bg.mp4" height='400' >
 </p>
 
 ### Hi there 👋 I'm Facundo!
