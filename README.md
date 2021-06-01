@@ -1,9 +1,10 @@
-<p>
+<p align='center'>
     <img src="./img/bg.gif" height='400' >
 </p>
 
-### Hi there 👋 I'm Facundo!
+### Hi there 👋 I'm Facundo! I enjoy coding :nerd_face: reading :books: and boxing :boxing_glove:
 
+- 📫 How to reach me: 
 <!--
 **FacundoArdizzi/FacundoArdizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
