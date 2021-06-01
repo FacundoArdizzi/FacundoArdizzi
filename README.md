@@ -1,4 +1,7 @@
-<img src="./img/bg.jpg">
+<p>
+    ## How you do whatever you do is how you do everything you do.
+    <img src="./img/bg.jpg" height='600' >
+</p>
 
 ### Hi there 👋 I'm Facundo!
 
