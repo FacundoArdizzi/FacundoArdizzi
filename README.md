@@ -4,7 +4,8 @@
 
 ### Hi there 👋 I'm Facundo! I enjoy coding :nerd_face: reading :books: and boxing :boxing_glove:
 
-- 📫 How to reach me: 
+📫 How to reach me: 
+- [LinkedIn](https://www.linkedin.com/in/facundo-ardizzi-260a931b5)
 <!--
 **FacundoArdizzi/FacundoArdizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
