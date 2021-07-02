@@ -1,8 +1,9 @@
+### Hi there 👋 I'm Facundo! I enjoy coding :nerd_face: reading :books: and boxing :boxing_glove:
+<br />
+
 <p align='center'>
     <img src="./img/bg.gif" height='400' >
 </p>
-
-### Hi there 👋 I'm Facundo! I enjoy coding :nerd_face: reading :books: and boxing :boxing_glove:
 
 :grin: The tecnologies that I know: 
 - JavaScript 
@@ -12,12 +13,16 @@
 - PostgreSQL 
 - Sequelize
 
+:earth_americas: Languages: 
+- Spanish (_native_)
+- English (_elementary_)
+
 🌱 I’m currently learning: 
 - React Native 
 
 📫 How to reach me: 
-- ardizzifacundo@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/facundo-ardizzi-260a931b5)
+- ardizzifacundo@gmail.com
 
 
 <!--
