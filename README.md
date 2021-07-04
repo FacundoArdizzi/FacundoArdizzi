@@ -16,7 +16,7 @@
 
 :earth_americas: Languages: 
 - Spanish (_native_)
-- English (_elementary_)
+- English (_upper intermediate_)
 
 
 🌱 I’m currently learning: 
