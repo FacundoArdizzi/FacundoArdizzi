@@ -24,7 +24,7 @@
 
 
 📫 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/facundo-ardizzi-260a931b5)
+- [LinkedIn](https://www.linkedin.com/notifications/)
 - ardizzifacundo@gmail.com
 
 
