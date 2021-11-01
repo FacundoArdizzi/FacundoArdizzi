@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Facundo! I enjoy coding :nerd_face: reading :books: and boxing :boxing_glove:
+### Hi there 👋 I'm Facundo! I enjoy coding :nerd_face: and reading :books:
 <hr />
 
 <p align='center'>
